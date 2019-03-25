@@ -15,6 +15,7 @@
   <link href="<c:url value="/resources/car-theme/css/bootstrap.min.css" />" rel="stylesheet">
   <script src="<c:url value="/resources/car-theme/js/bootstrap.min.js" />"></script>
   <link href="<c:url value="/resources/car-theme/css/style.css" />" rel="stylesheet">
+  <script src="<c:url value="/resources/car-theme/js/jquery-3.3.1.min.js" />"></script>
 </head>
 <body>
 
